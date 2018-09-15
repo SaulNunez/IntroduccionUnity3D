@@ -29,7 +29,7 @@ void Imprimir(){
 
 **Nota:** Podemos hacer el uso del return en aquellas funciones que no retornen nada para simplemente cortar la ejecución y retornar al código que llamo la función.
 
-## Tip para expertos
+### Tip para expertos
 
 C# normalmente lo que hace es que pasa los parametros de las funciones **por copia**. A lo que se refiere esto es que C# hace una copia de los parámetros y esos son lo que usamos dentro de las funciones.
 
