@@ -1,6 +1,6 @@
 # Funciones
 
-Las funciones son extremadamente utiles en el diseño de lógica en videojuegos y en otros tipos de programas. Nos permite reutilizar código ahorrando tiempo, evitando errores y facilitar añadir nueva funcionalidad.
+Las funciones son extremadamente utiles en el diseño de lógica en videojuegos dado que nos permite reutilizar código ahorrando tiempo, evitando errores y facilitar añadir nueva funcionalidad.
 
 ```C#
 float SumarDosNumeros(float a, float b){
@@ -31,7 +31,7 @@ void Imprimir(){
 
 ### Tip para expertos
 
-C# normalmente lo que hace es que pasa los parametros de las funciones **por copia**. A lo que se refiere esto es que C# hace una copia de los parámetros y esos son lo que usamos dentro de las funciones.
+C# normalmente lo que hace es que pasa los parametros de las funciones **por copia**. A lo que se refiere esto es que C# hace una copia de lo que le pasamos, si  modificamos este  adentro de la función, no pasara absolutamente nada al valor original.
 
 ```C#
 float numeroAPotenciar = 2;
@@ -48,7 +48,7 @@ float Potenciacion(float a, float exponente){
 }
 ```
 
-Sin embargo, cuando empieces en el mundo real a trabajar con código real, puede que te toque trabajar con grandes cantidades de información, las cuales no es la mejor idea trabajarlas por copia, C# tiene una forma de pasarlos por referencia, lo que significa que estas usando la misma variable que estas pasando el los parametros en lugar de copiarla en otro lugar. Para hacer esto usamos el keyword **ref**. Podemos también usarlo para pasar a una función variables que podemos modificar.
+Cuando empieces en el mundo real a trabajar con código real, puede que te toque trabajar con datos muy grandes, las cuales no es la mejor idea trabajarlos por copia \(¡imaginate cuanto desperdicio de memoria!\), C# tiene una forma de pasarlos por referencia, lo que significa que estas usando la misma variable que estas pasando el los parametros. Para hacer esto usamos el keyword **ref**.
 
 ```C#
 float numeroAPotenciar = 2;
@@ -64,5 +64,3 @@ float Potenciacion(ref float a, float exponente){
     return a;
 }
 ```
-
-**Nota:** Al usar **ref** se muy cuidadoso de las referencias de memoria que cambias, algunos cambios pueden ser esperados, pero otros no esperados pueden ser un dolor de cabeza para encontrar.
