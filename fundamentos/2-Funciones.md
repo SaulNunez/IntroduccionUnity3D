@@ -48,7 +48,7 @@ float Potenciacion(float a, float exponente){
 }
 ```
 
-Sin embargo, cuando empieces en el mundo real a trabajar con código real, puede que te toque trabajar con grandes cantidades de información, las cuales no es la mejor idea trabajarlas por copia, C# tiene una forma de pasarlos por referencia, lo que significa que estas usando la misma variable que estas pasando el los parametros. Para hacer esto usamos el keyword **ref**.
+Sin embargo, cuando empieces en el mundo real a trabajar con código real, puede que te toque trabajar con grandes cantidades de información, las cuales no es la mejor idea trabajarlas por copia, C# tiene una forma de pasarlos por referencia, lo que significa que estas usando la misma variable que estas pasando el los parametros en lugar de copiarla en otro lugar. Para hacer esto usamos el keyword **ref**. Podemos también usarlo para pasar a una función variables que podemos modificar.
 
 ```C#
 float numeroAPotenciar = 2;

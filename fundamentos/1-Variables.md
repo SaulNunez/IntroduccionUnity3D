@@ -40,8 +40,8 @@ string saludo = "Hola Mundo";
 Adicionalmente podemos usar la palabra **var** para que el compilador defina el tipo de variable que tiene más sentido usar.
 
 ```C#
-var salud = "Hola Mundo";
-var y = 42;
+var saludo = "Hola Mundo";
+var salud = 42;
 ```
 
 Información obtenida de:   
