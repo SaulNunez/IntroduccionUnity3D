@@ -4,12 +4,12 @@ Una guia rápida a Unity 3D.
 
 ## Primera Parte: Fundamentos de C#  
 En esta primera parte abarcamos los fundamentos de C#. Con información técnica que pudiera ser de ayuda para cuando hagas tu propio juego.
-1. Variables
-2. Funciones
-3. Ciclos
-4. Estructuras y enumeraciones
-5. Clases
-6. Interfaces
+1. [Variables](./csharp/1_variables.html)
+2. [Funciones](./csharp/2_funciones.html)
+3. [Ciclos](./csharp/3_ciclos.html)
+4. [Estructuras y enumeraciones](./csharp/4_structs_enums.html)
+5. [Clases](./csharp/5_clases.html)
+6. [Interfaces](./csharp/6_interfaces.html)
 
 ## Segunda parte: Conociendo Unity
 Una pequeña introducción a la interfaz de Unity y creamos nuestro personaje.
