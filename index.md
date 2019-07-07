@@ -1,8 +1,6 @@
 # Una pequeña introducción a Unity 3D
 
-Una guia para la rápida introducción al engine Unity 3D.
-
-Esta guia esta orientada a una rápida entrada al engine Unity 3D. Enseña lo básico de C# y una vista a los diferentes sistemas que incluye Unity3D.
+Una guia rápida a Unity 3D. 
 
 ## Primera Parte: Fundamentos de C#  
 En esta primera parte abarcamos los fundamentos de C#. Con información técnica que pudiera ser de ayuda para cuando hagas tu propio juego.
@@ -38,3 +36,4 @@ En esta cuarta parte nos dedicamos a aprender cosas como comunicacion entre Game
 2. Sistema de mensajes de Unity
 3. Singletons
 4. Poolers
+
