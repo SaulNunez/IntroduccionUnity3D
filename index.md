@@ -37,4 +37,4 @@ En esta cuarta parte nos dedicamos a aprender cosas como comunicacion entre Game
 4. Poolers
 
 ## Quinta parte: Puedo ser un cerdo, pero no soy un puerco
-Vemos un poco de las maneras que tenemos para organizar el código de nuestro juego. Desde diseño arquitectonico. A como utilizar los componentes para evitar código espaguetti. \;\)
+Vemos un poco de las maneras que tenemos para organizar el código de nuestro juego. Desde diseño arquitectonico. A como utilizar los componentes para evitar código espaguetti. ;\)
