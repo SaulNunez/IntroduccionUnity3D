@@ -2,13 +2,12 @@
 
 Las variables son una parte muy importante de la programación. Nos permiten guardar datos, así como mantener estado de nuestro juego.
 
-Unity3D usa primordialmente usa C#, este es originalmente diseñado por Microsoft. Pero con un poco de magia y programación ingeniosa podemos hacer uso de su facilidad de programación y velocidad para la creación de juegos.
+En Unity3D usamos C# para hacer absolutamente todo de nuestro juego. C# es diseñado por Microsoft.
 
-Las variables en C# son *fuertemente tipadas*. ¿Qué significa esto? Que nosotros definimos explicitamente que "cabe" en cada variable. Podemos decirle a nuestro programa que solo cabe un número entero, si posteriormente queremos guardar una cadena de texto, nos mostrará un error porque solo podemos guardar números con esa variable. Y *estáticamente tipadas* porque los tipos que usamos los definimos nosotros.
+Las variables en C# son *fuertemente tipadas* lo que nosotros definimos explicitamente que "cabe" en cada variable. Podemos decirle a nuestro programa que solo cabe un número entero, si posteriormente queremos guardar una cadena de texto, nos mostrará un error porque solo podemos guardar números con esa variable. 
+Y *estáticamente tipadas* porque los tipos que usamos los definimos nosotros.
 
-Las variables en C# se dividen en 2 tipos, las primitivas y las complejas.
-
-Las primitivas son aquellas que estan construidas en el lenguaje y con ellas crear cosas más complejas.
+Las variables en C# se dividen en 2 tipos, las primitivas y las complejas. Las primitivas son aquellas que estan construidas en el lenguaje y con ellas crear cosas más complejas. Las complejas son, por ejemplo: clases, estructuras o enumeraciones, las cuales que veremos luego.
 
 Tipo | Valores Aceptados | Literales | Notas
 -----|-------------------|-----------|------
@@ -47,5 +46,5 @@ var salud = 42;
 ```
 
 Información obtenida de:   
-<http://www.introprogramming.info/english-intro-csharp-book/read-online/chapter-2-primitive-types-and-variables/>
+<http://www.introprogramming.info/english-intro-csharp-book/read-online/chapter-2-primitive-types-and-variables/>   
 <http://www.jeremyshanks.com/c-variables-primitive-nonprimitive-types/>
