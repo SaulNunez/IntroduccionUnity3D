@@ -16,12 +16,12 @@ La forma de explotar todo el potencial de Unity es creando la lógica de las dif
 
 ## Segunda parte: Conociendo Unity
 Una pequeña introducción a la interfaz de Unity y creamos un lindo personaje.
-1. [Interfaz de Unity3D](./intro/1_interfaz.html)
-2. [Gameobject](./intro/2_gameobject.html)
-3. [Sprite Renderer](./intro/3_spriterenderer.html)
-4. [Materiales](./intro/4_structs_enums.html)
-5. [Animation](./intro/5_clases.html)
-6. [Animator](./intro/6_interfaces.html)
+1. [Interfaz de Unity3D](./intro/interfaz.html)
+2. [Gameobject](./intro/gameobject.html)
+3. [Sprite Renderer](./intro/spriterenderer.html)
+4. [Materiales](./intro/structs_enums.html)
+5. [Animation](./intro/clases.html)
+6. [Animator](./intro/interfaces.html)
 
 ## Tercera parte: Introduccion a programación en Unity  
 En la tercera parte nos adentramos a Unity y aprendemos lo básico para crear nuestro juego.
