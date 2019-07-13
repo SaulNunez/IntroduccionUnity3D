@@ -20,13 +20,13 @@ Puedes omitirla, puedes usarlo como un contador para tu ciclo, esta variable sol
 i < elementos.Count;
 ```
 
-Esta expresión tiene que evaluarse a *falso* para romper el ciclo.
+Esta expresión tiene que evaluarse a `true` para continuar con el ciclo.
 
 ```C#
 i++
 ```
 
-Esta expresión nos sirve para incrementar nueva variable.
+Esta expresión nos permite para calcular el siguiente elemento.
 
 ### i++
 
