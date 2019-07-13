@@ -40,7 +40,7 @@ public class Monstruo {
     }
 }
 ```
-Regresamos a nuestras viejas funciones. Estas añaden funcionalidad a nuestras clases, definiendo comportamientos para nuestros objetos, justo como en la vida real.
+Regresamos a nuestras viejas funciones. Estas añaden funcionalidad a nuestras clases, definiendo comportamientos para nuestros objetos, justo como en la vida real. Notese que el nombre correcto para son metodos, de aquí en adelante así nos referiremos a ellas.
 
 Podemos cambiar cosas fundamentales de nuestros objetos cuando los creamos de una manera elegante con un constructor. Hagamos que podamos crear monstruos con diferentes valores de `vida`.
 

@@ -20,7 +20,7 @@ Rectangulo r2 = new Rectangulo();
 ```
 
 ## Enumeraciones
-Las enumeraciones son un tipo que podemos usar en casos que las opciones son un pequeño grupo de constantes.
+Las enumeraciones \(o `enums`\) son un tipo que podemos usar en casos que las opciones son un pequeño grupo de constantes.
 De manera predefinida, los enumeradores inician en 0 y su valor sucesivo aumento por 1. Aunque podemos cambiar sus valor usando un signo de igual.
 La sintaxis es la siguiente:
 
@@ -32,7 +32,7 @@ enum Dias { Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo }
 enum Dias { Lunes=1, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo }
 ```
 
-Información obtenida de:
-<https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/struct>
-<https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-structs>
-<https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/enum>
+Información obtenida de:   
+<https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/struct>   
+<https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-structs>   
+<https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/enum>   
