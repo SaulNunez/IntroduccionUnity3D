@@ -14,7 +14,7 @@ for(int i = 0; i < elementos.Count; i++){
 int i = 0;
 ```
 
-Esta primera parte puede ser omitida de ser necesario, es un lugar para crear una variable solo dentro de nuestro ciclo.
+Puedes omitirla, puedes usarlo como un contador para tu ciclo, esta variable solo sera accesible dentro del ciclo.
 
 ```C#
 i < elementos.Count;
