@@ -23,14 +23,14 @@ Una pequeña introducción a la interfaz de Unity y creamos un lindo personaje.
 5. [Animation](./intro/clases.html)
 6. [Animator](./intro/interfaces.html)
 
-## Tercera parte: Introduccion a programación en Unity  
+## Tercera parte: Sintiendonos comodos en Unity  
 En la tercera parte nos adentramos a Unity y aprendemos lo básico para crear nuestro juego.
-1. Transforms
-2. Monobehaviors
-3. Colliders2D
-4. Rigidbody2D
-5. Effectors2D
-6. Materiales para Physics2D
+1. [Transforms](./intro2/transforms.html)
+2. [Monobehaviors](./intro2/monobehaviors.html)
+3. [Colliders2D](./intro2/colliders2d.html)
+4. [Rigidbody2D](./intro2/rigidbody2d.html)
+5. [Effectors2D](./intro2/effectors2d.html)
+6. [Materiales para Physics2D](./intro2/materialesphysics2d.md)
 
 ## Cuarta parte: Administrando nuestro juego
 En esta cuarta parte nos dedicamos a aprender cosas como comunicacion entre GameObjects, que nos ayudan que se sienta como un juego de verdad y agregue interactividad.
