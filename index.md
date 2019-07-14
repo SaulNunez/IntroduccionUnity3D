@@ -40,7 +40,7 @@ En esta cuarta parte nos dedicamos a aprender cosas como comunicacion entre Game
 4. Poolers
 
 ## Quinta parte: Andas en llamas ;\)
-Aparte de los objetos solidos hay particulas que podemos usar para simular objetos no solidos con los que nos topamos todos los días como humo, burbujas, y demás.
+Como usar el sistema de particulas para simular objetos no solidos con los que nos topamos todos los días como humo, burbujas, y demás.
 
 ## Sexta parte: Puedo ser un cerdo, pero no soy un puerco
 Vemos un poco de las maneras que tenemos para organizar el código de nuestro juego. Desde diseño arquitectonico. A como utilizar diferentes conceptos para evitar código espaguetti. :\)
