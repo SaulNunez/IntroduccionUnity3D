@@ -1,5 +1,9 @@
-# Estructuras y otras magías negras para trabajar con datos de manera ordenada
-## Estructuras
+---
+layout: post
+title:  "Estructuras y otras magías negras para trabajar con datos de manera ordenada"
+--- 
+
+# Estructuras
 Los `struct` o estructuras son un tipo que conmunmente se usan para encapusular un grupo de variables relacionadas. Como por ejemplo, los `Vector2` o los `Vector3` de unity, o cosas como las coordenadas y dimensiones de un rectangulo.
 Para declararlos usamos la siguiente sintaxis:
 
@@ -19,7 +23,7 @@ Rectangulo r1;
 Rectangulo r2 = new Rectangulo();
 ```
 
-## Enumeraciones
+# Enumeraciones
 Las enumeraciones \(o `enums`\) son un tipo que podemos usar en casos que las opciones son un pequeño grupo de constantes.
 De manera predefinida, los enumeradores inician en 0 y su valor sucesivo aumento por 1. Aunque podemos cambiar sus valor usando un signo de igual.
 La sintaxis es la siguiente:

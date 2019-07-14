@@ -1,4 +1,7 @@
-# Funciones
+---
+layout: post
+title:  "Funciones"
+---
 
 Las funciones son extremadamente utiles en el diseño de lógica en videojuegos dado que nos permite reutilizar código ahorrando tiempo, evitando errores y facilitar añadir nueva funcionalidad.
 
@@ -29,7 +32,7 @@ void Imprimir(){
 
 **Nota:** Podemos hacer el uso del return en aquellas funciones que no retornen nada para simplemente cortar la ejecución y retornar al código que llamo la función.
 
-### Tip para expertos
+## Tip para expertos
 
 C# normalmente lo que hace es que pasa los parametros de las funciones **por copia**. A lo que se refiere esto es que C# hace una copia de lo que le pasamos, si  modificamos este  adentro de la función, no pasara absolutamente nada al valor original.
 

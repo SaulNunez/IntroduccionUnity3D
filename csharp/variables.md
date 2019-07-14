@@ -1,4 +1,7 @@
-# Variables
+---
+layout: post
+title:  "Variables"
+---
 
 Las variables son una parte muy importante de la programación. Nos permiten guardar datos, así como mantener estado de nuestro juego.
 

@@ -1,6 +1,9 @@
-# Ciclos
+---
+layout: post
+title:  "Ciclos"
+---
 
-## For
+# For
 
 Común del mundo de C. Usado cuando sabemos en que punto se detendra la ejecución.
 
@@ -28,11 +31,11 @@ i++
 
 Esta expresión nos permite para calcular el siguiente elemento.
 
-### i++
+## i++
 
 `i++` es una forma corta de decir aumenta por uno a `i`. Es equivalente a `i = i + 1`. Adicionalmente podemos usar `i--`, que hace exactamente lo mismo pero restando.
 
-## While
+# While
 
 Nos permite correr algo hasta que dejemos de cumplir una condición.
 
@@ -42,11 +45,11 @@ while(saltando){
 }
 ```
 
-### Tip para expertos
+## Tip para expertos
 
 `saltando` es una forma corta de decir que si una variable booleana equivale a *true*. Expresiones como *if* o *while* prueban aquello dentro de los paréntesis a que nos de un valor booleano. Cuando este esta solo, esta expresión toma el valor único de esta variable.
 
-## Do While
+# Do While
 
 Nos permite correr algo, donde lo primordial es correr el ciclo al menos una vez. La expresión tiene que evaluarse a *falso* para romper el ciclo.
 
@@ -56,7 +59,7 @@ do {
 } while(a > b);
 ```
 
-## Foreach
+# Foreach
 
 Es una forma muy facil realizar operaciones ciclicas donde sabemos que recorreremos cada elemento de una coleccion.
 

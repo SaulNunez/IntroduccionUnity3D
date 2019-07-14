@@ -1,4 +1,7 @@
-# Clases
+---
+layout: post
+title:  "Clases"
+---
 
 C# es un lenguage que soporta diferentes paradigmas de programación.
 Uno de ellos es la *programación orientada a objetos*.
