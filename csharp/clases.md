@@ -24,6 +24,7 @@ Y ahora para tener nuestro propio monstro... \(una instancia de un monstruo\)
 ```
 
 Pero esta algo vacia, hagamos que nuestro monstruo tenga una vida de tres. (Regresaremos a que significa `private` en un tema o dos)
+
 ```C#
 public class Monstruo {
     private int vida = 3;
@@ -60,3 +61,5 @@ public class Monstruo {
 Monstruo jefe = new Monstruo(5);
 Monstruo normal = new Monstruo(3);
 ```
+
+`this` sirve como una forma de referirnos cosas dentro de esa clase. Lo usamos porque `vida` en el constructor \"opaca\" al miembro de `Monstruo`. `this` nos permite volver a usarlo. 
